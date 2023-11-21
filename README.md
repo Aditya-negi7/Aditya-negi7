@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Negi</h1>
-<h3 align="center">A student pursuing B.Tech in Computer Science with specialization in Artificial Intelligence at Noida Institute of Engineering and Technology, Greater Noida.</h3>
+<h3 align="center">About Me 🌟 :</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-negi7&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-negi7" /> </p>
 
