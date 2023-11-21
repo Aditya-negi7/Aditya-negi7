@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Negi</h1>
 <h3 align="center">About Me 🌟 :</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-negi7&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-negi7" /> </p>
-
 - 🔭 I’m currently working on **Full-Stack Web development**
 
 - 🌱 I’m currently learning **Python DSA and React JS**
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-negi7&show_icons=true&locale=en" alt="aditya-negi7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-negi7&" alt="aditya-negi7" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-negi7&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-negi7" /> </p>
