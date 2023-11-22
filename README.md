@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Negi</h1>
-<h3 align="center">About Me 🌟 :</h3>
+<h3>About Me 🌟 :</h3>
 
 - 🔭 I’m currently working on **Full-Stack Web development**
 
